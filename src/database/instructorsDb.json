@@ -1,0 +1,282 @@
+[
+    {
+        "_id": "594e978b-ac65-4a10-987e-9f12b3a78b08",
+        "fullName": "Eddie Beahan",
+        "nickname": "Grimes",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": false,
+        "isMnte": true,
+        "isMlte": false,
+        "isNight": true,
+        "canSolo": false,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": true,
+            "da40": false,
+            "corisco": false,
+            "seneca": false
+        },
+        "availability": {
+            "six": false,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": true
+        }
+    },
+    {
+        "_id": "d3fa0aa3-3fed-49c6-9033-342dcca9798c",
+        "fullName": "Viola Witting",
+        "nickname": "Stamm",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": false,
+        "isMnte": true,
+        "isMlte": false,
+        "isNight": true,
+        "canSolo": false,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": true,
+            "da40": false,
+            "corisco": false,
+            "seneca": false
+        },
+        "availability": {
+            "six": false,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": true
+        }
+    },
+    {
+        "_id": "071338fd-3dd1-43e3-9fb6-2ea9875f177e",
+        "fullName": "Hilda Dare",
+        "nickname": "Friesen",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": true,
+        "isMnte": true,
+        "isMlte": false,
+        "isNight": false,
+        "canSolo": false,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": false,
+            "da40": false,
+            "corisco": true,
+            "seneca": false
+        },
+        "availability": {
+            "six": true,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": false
+        }
+    },
+    {
+        "_id": "a4c04f3d-b5fa-49e4-9832-d0543809971e",
+        "fullName": "Lindsey Jacobs",
+        "nickname": "Maggio",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": true,
+        "isMnte": true,
+        "isMlte": false,
+        "isNight": true,
+        "canSolo": true,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": true,
+            "da40": true,
+            "corisco": true,
+            "seneca": false
+        },
+        "availability": {
+            "six": false,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": true
+        }
+    },
+    {
+        "_id": "469cdd46-2c2b-4fa2-8adb-fd79233d253b",
+        "fullName": "Jody Hermiston",
+        "nickname": "Weber",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": false,
+        "isMnte": true,
+        "isMlte": false,
+        "isNight": true,
+        "canSolo": false,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": false,
+            "da40": true,
+            "corisco": false,
+            "seneca": false
+        },
+        "availability": {
+            "six": true,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": true
+        }
+    },
+    {
+        "_id": "d8fbdd95-4000-42b1-a95a-1715390e78e1",
+        "fullName": "Mr. Roosevelt Dickens",
+        "nickname": "Herzog",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": true,
+        "isMnte": true,
+        "isMlte": false,
+        "isNight": true,
+        "canSolo": true,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": false,
+            "da40": false,
+            "corisco": false,
+            "seneca": false
+        },
+        "availability": {
+            "six": true,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": true
+        }
+    },
+    {
+        "_id": "d3677a65-f631-4035-a0cd-0592f5aea38c",
+        "fullName": "Kristine Huels",
+        "nickname": "Will",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": false,
+        "isMnte": true,
+        "isMlte": false,
+        "isNight": true,
+        "canSolo": false,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": false,
+            "da40": false,
+            "corisco": false,
+            "seneca": false
+        },
+        "availability": {
+            "six": false,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": true
+        }
+    },
+    {
+        "_id": "4d5b7c95-cb01-4885-b3d5-db11bf3438ad",
+        "fullName": "Misty Lind",
+        "nickname": "Hansen",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": false,
+        "isMnte": true,
+        "isMlte": false,
+        "isNight": true,
+        "canSolo": false,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": false,
+            "da40": true,
+            "corisco": true,
+            "seneca": false
+        },
+        "availability": {
+            "six": true,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": true
+        }
+    },
+    {
+        "_id": "035d2487-e3e3-4319-b333-0e3433950e4a",
+        "fullName": "Katie Schaden",
+        "nickname": "Tromp",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": true,
+        "isMnte": true,
+        "isMlte": true,
+        "isNight": true,
+        "canSolo": true,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": false,
+            "da40": false,
+            "corisco": false,
+            "seneca": false
+        },
+        "availability": {
+            "six": false,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": true
+        }
+    },
+    {
+        "_id": "5f0ffbfd-b2c5-4581-8aee-cb3658a6ba1c",
+        "fullName": "Lamar Hahn",
+        "nickname": "Johnston",
+        "isCheckride": false,
+        "isVfr": true,
+        "isIfr": false,
+        "isMnte": true,
+        "isMlte": false,
+        "isNight": true,
+        "canSolo": true,
+        "aircrafts": {
+            "cherokee": true,
+            "tupi": true,
+            "da20": false,
+            "da40": false,
+            "corisco": false,
+            "seneca": false
+        },
+        "availability": {
+            "six": false,
+            "eight": true,
+            "ten": true,
+            "twelve": true,
+            "fourteen": true,
+            "night": true
+        }
+    }
+]

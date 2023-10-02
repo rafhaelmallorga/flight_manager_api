@@ -1,0 +1,7 @@
+Instructor
+VFR,
+IFR,
+MLTE,
+MNTE,
+CHECKRIDE,
+SOLO,
