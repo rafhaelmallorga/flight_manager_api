@@ -293,7 +293,12 @@ const AIRCRAFTS = {
     }
 }
 
-FLIGHT_STATUS = ["pending", "confirmed", "completed", "canceled"]
+FLIGHT_STATUS = {
+    PENDING: "pending",
+    CONFIRMED: "confirmed",
+    COMPLETED: "completed",
+    CANCELED: "canceled"
+}
 
 SLOTS = ["six", "eight", "ten", "twelve", "fourteen", "night"]
 

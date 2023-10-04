@@ -7,6 +7,7 @@ const Service = require("./services");
 
 const flightsDb = JSON.parse(fs.readFileSync("src/database/flightsDb.json", "utf-8"));
 const instructorsDb = JSON.parse(fs.readFileSync("src/database/instructorsDb.json", "utf-8"));
+const aircraftsDb = JSON.parse(fs.readFileSync("src/database/aircraftsDb.json", "utf-8"));
 
-Service.makeSchedule(flightsDb, instructorsDb)
+Service.makeSchedule(flightsDb, instructorsDb, aircraftsDb)
 

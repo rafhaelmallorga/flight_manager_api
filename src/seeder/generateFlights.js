@@ -14,7 +14,7 @@ const generateFlights = () => {
 
     studentsDb.forEach(student => {
         const flight = new Flight({
-            status: FLIGHT_STATUS[0],
+            status: FLIGHT_STATUS.PENDING,
             date: new Date(),
             student,
             aircraftModel: acftModels[faker.number.int({min: 0, max: 5})],
