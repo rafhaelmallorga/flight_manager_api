@@ -5,6 +5,7 @@ class Flight {
     constructor({status, date, student, aircraftModel, instructor, bookedAircraft, time}) {
         this._id = faker.string.uuid()
         this.status = status;
+        this.description = [];
         this.date = date;
         this.student = student;
         this.aircraftModel = aircraftModel;

@@ -1,8 +1,9 @@
 [
     {
-        "_id": "2f9f2a8d-1245-496e-b8dd-24bf9f3c3716",
+        "_id": "537a8fcc-3970-4579-b872-1d86b60aa3d3",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.472Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.785Z",
         "student": {
             "_id": "dbe102f5-10fd-4cd1-b82a-390382743802",
             "fullName": "Kristine Osinski",
@@ -29,16 +30,17 @@
         "time": "eight",
         "mission": {
             "slots": 2,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "ec95ef30-262f-4c76-8746-338ceabde9df",
+        "_id": "64ad3cd5-4c02-4d2f-9ea6-215b6b9424d4",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.785Z",
         "student": {
             "_id": "38fb7668-0705-4add-af80-f9b719775e9f",
             "fullName": "Henrietta Thiel",
@@ -59,22 +61,23 @@
                 "seneca": true
             }
         },
-        "aircraftModel": "cherokee",
+        "aircraftModel": "da20",
         "instructor": null,
         "bookedAircraft": null,
         "time": "eight",
         "mission": {
             "slots": 2,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "e5e014bd-4b33-428f-ba5c-9ab1be03c9c8",
+        "_id": "f8db3f95-6115-425c-b87d-cd0f8d23b90c",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.785Z",
         "student": {
             "_id": "6eb70a8d-1807-4b04-b1e0-88d95de589f6",
             "fullName": "Marion Huels",
@@ -95,22 +98,23 @@
                 "seneca": true
             }
         },
-        "aircraftModel": "tupi",
+        "aircraftModel": "seneca",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "eight",
+        "time": "twelve",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "529707cb-cc11-4055-ae39-d279dd208be1",
+        "_id": "f6dc2ca7-91d4-433e-b1e8-848e38fae743",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.785Z",
         "student": {
             "_id": "34889275-7438-4004-aff3-8e1b7a9159de",
             "fullName": "Bryan Reichel DDS",
@@ -131,22 +135,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "da40",
+        "aircraftModel": "seneca",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "six",
+        "time": "twelve",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": true,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "2128b108-eb4a-4aca-9b20-0d83746c6552",
+        "_id": "c97864bc-040c-4003-a722-c48cebdab560",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.785Z",
         "student": {
             "_id": "c53152d3-ada0-4c6f-8755-0d38a1520b2e",
             "fullName": "Brett Donnelly",
@@ -167,22 +172,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "da40",
+        "aircraftModel": "cherokee",
         "instructor": null,
         "bookedAircraft": null,
         "time": "eight",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": true,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "a327adda-7405-42fb-b162-76f955162abf",
+        "_id": "6ecd23ab-dc93-4064-8aab-9fe1aed21149",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.785Z",
         "student": {
             "_id": "8a9edaa2-759e-46c3-8add-c48be3ba9412",
             "fullName": "Tyler Simonis",
@@ -203,22 +209,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "tupi",
+        "aircraftModel": "da40",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "ten",
+        "time": "fourteen",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": true,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "ead8ffde-3e28-4410-afb9-d8b32d2154af",
+        "_id": "eca9c525-7052-4ecf-a9a5-0dada09161e6",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.785Z",
         "student": {
             "_id": "968b2150-52b4-4dbd-b2d1-e5fcfb9d4e9d",
             "fullName": "Sandy Goyette",
@@ -239,22 +246,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "seneca",
+        "aircraftModel": "cherokee",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "six",
+        "time": "twelve",
         "mission": {
             "slots": 2,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "f2a9181a-a990-4762-84b0-fe4734511f4f",
+        "_id": "491e4cac-50de-40b0-a7ed-2a000e467676",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.785Z",
         "student": {
             "_id": "66f52a75-29d3-4821-b706-0e56aef9e1d3",
             "fullName": "Ora Blick",
@@ -278,19 +286,20 @@
         "aircraftModel": "cherokee",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "ten",
+        "time": "twelve",
         "mission": {
             "slots": 2,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "1e5c5a58-8be5-427d-a46b-4e8eb4d813d9",
+        "_id": "25f9a1a5-a30b-434e-b581-89177ec9daca",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "1de6a811-04ba-40f1-86a9-9f4a2fa71941",
             "fullName": "Conrad Gorczany I",
@@ -311,22 +320,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "seneca",
+        "aircraftModel": "da20",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "eight",
+        "time": "ten",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "bbab364f-fcdd-437f-aa75-4bd376d8bede",
+        "_id": "0dc94a32-9d10-4351-8c6a-2588a4024198",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "c7dd1325-c018-4ae7-ac99-eef16c49c3b6",
             "fullName": "Shannon O'Conner-Fritsch",
@@ -350,19 +360,20 @@
         "aircraftModel": "corisco",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "night",
+        "time": "twelve",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": true,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "aa92992a-be53-4386-9e8f-01eb2a102b35",
+        "_id": "2d3baf6c-ee3c-4f32-970a-806809c6b848",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "d48553f2-6d4f-412a-a0e0-0cf141b86675",
             "fullName": "Kay Wehner",
@@ -383,22 +394,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "cherokee",
+        "aircraftModel": "seneca",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "eight",
+        "time": "twelve",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": true,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "03332f13-f22e-4e5b-b42b-952915d7255c",
+        "_id": "85cbd187-6ae0-4cee-8d48-3c44cedd4750",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "eff66cc3-a937-4e71-9749-ea22a532a4b8",
             "fullName": "Glenda Tromp",
@@ -419,22 +431,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "corisco",
+        "aircraftModel": "tupi",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "six",
+        "time": "twelve",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "5ee2cf15-9876-4c18-a718-ce066d0136ec",
+        "_id": "6456935d-8ac7-45da-b2fa-5b9493c05608",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "41606b95-27df-462f-9947-d16b61fde19e",
             "fullName": "Kelly Crist",
@@ -455,22 +468,23 @@
                 "seneca": true
             }
         },
-        "aircraftModel": "seneca",
+        "aircraftModel": "cherokee",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "eight",
+        "time": "twelve",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "b371cc83-6779-4645-9bba-19a78310b3f8",
+        "_id": "34c67d3e-a566-4dea-b7c5-b789f8bcebb0",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "c0c0b8ac-85f6-4cc1-b5d2-58b857b8532d",
             "fullName": "Homer Boehm",
@@ -491,22 +505,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "da20",
+        "aircraftModel": "seneca",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "twelve",
+        "time": "six",
         "mission": {
             "slots": 2,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "589d4a61-84f7-4690-9339-f4299f037610",
+        "_id": "55adae51-0faf-4546-9b81-1a640f12411d",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "e0604ac7-ed37-4424-9f4f-33cb10327e08",
             "fullName": "Marian Crist",
@@ -527,22 +542,23 @@
                 "seneca": true
             }
         },
-        "aircraftModel": "cherokee",
+        "aircraftModel": "da40",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "fourteen",
+        "time": "eight",
         "mission": {
             "slots": 2,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "17cb2344-902e-4f8e-89aa-51a7123025d6",
+        "_id": "c0a641fa-d925-4a1a-b35b-7f889a0c7b74",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "49790f77-b1cb-489d-b9e5-26d6266edc1a",
             "fullName": "Allison Cruickshank",
@@ -563,22 +579,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "seneca",
+        "aircraftModel": "cherokee",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "twelve",
+        "time": "fourteen",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "8eaefd7b-28e4-4265-9ce7-a596a3bee610",
+        "_id": "9b7d7699-06b3-4607-aa0c-ed5a19bbfdef",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "402245e0-b63c-473e-a7fd-ffc6f432a3ab",
             "fullName": "Essie Bruen",
@@ -599,22 +616,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "da40",
+        "aircraftModel": "da20",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "twelve",
+        "time": "ten",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": false,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "56c1a358-8fd0-4276-9a29-9c2b4b743d36",
+        "_id": "50eedb52-4d6b-4a15-8d4a-4af3ba120749",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "b366d855-5a04-48a2-9b8c-bcfbd88f5f7b",
             "fullName": "Reginald Shanahan",
@@ -635,22 +653,23 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "seneca",
+        "aircraftModel": "cherokee",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "night",
+        "time": "ten",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": true,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "66880d3b-37c5-47f2-a685-b0c8dd473961",
+        "_id": "c2b1d40c-462a-41a1-9d91-bf55a5df7da0",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "83828b9e-4308-47d1-babe-55c6758d3a44",
             "fullName": "Minnie Conn",
@@ -674,19 +693,20 @@
         "aircraftModel": "da40",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "fourteen",
+        "time": "night",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": true,
             "isSolo": false,
             "isCheckride": false
         }
     },
     {
-        "_id": "5179bd06-e999-4db6-86b8-321635fd1cf6",
+        "_id": "ad2215ae-b9c6-4fe9-a985-a85339a627ad",
         "status": "pending",
-        "date": "2023-10-01T22:01:45.473Z",
+        "description": [],
+        "date": "2023-10-07T21:41:44.786Z",
         "student": {
             "_id": "012a741b-d4b5-4a68-bd01-5427cab5686a",
             "fullName": "Shelly Dickens",
@@ -707,13 +727,13 @@
                 "seneca": false
             }
         },
-        "aircraftModel": "cherokee",
+        "aircraftModel": "da20",
         "instructor": null,
         "bookedAircraft": null,
-        "time": "six",
+        "time": "twelve",
         "mission": {
             "slots": 1,
-            "isVfr": true,
+            "isIfr": false,
             "isNight": true,
             "isSolo": false,
             "isCheckride": false
